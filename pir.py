@@ -17,7 +17,8 @@ while(True):
     time.sleep(1)
     print("timer fired")
 ```
-
+## pir 센서 코드 최종 완성본
+```
   1 #1/usr/bin/python
   2
   3 import time
@@ -76,5 +77,4 @@ while(True):
  56         client = influxdb('localhost',8086,'root','root','pir')
  57     except Exception as e:
  58         print "Exception" + str(e)
-:
-
+```
