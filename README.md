@@ -71,3 +71,8 @@ cd /tmp
 wget https://project-downloads.drogon.net/wiringpi-latest.deb
 sudo dpkg -i wiringpi-latest.deb
 ```
+### git hub 사용방법
+ - Repository done load
+ ```
+ git clone https://github.com/<minju-nam>/<repository name>
+ ```
