@@ -71,12 +71,6 @@ cd /tmp
 wget https://project-downloads.drogon.net/wiringpi-latest.deb
 sudo dpkg -i wiringpi-latest.deb
 ```
-### git hub 사용방법
- - Repository done load
- ```
- git clone https://github.com/<minju-nam>/<repository name>
- ```
-
 ## 기타 지식
 ```
 22번 포트는 ssh 접속을 허락해 주는 포트
