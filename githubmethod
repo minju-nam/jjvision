@@ -1,1 +1,5 @@
-
+### git hub 사용방법
+ - Repository done load
+ ```
+ git clone https://github.com/<minju-nam>/<repository name>
+ ```
